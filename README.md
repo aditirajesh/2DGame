@@ -4,4 +4,3 @@ Sprite sheets for this demo were obtained online.
 
 ## GIF
 ![Demo GIF](.ABBDE423-A566-4E6E-BC53-75C6DB79CED9-ezgif.com-gif-to-mp4-converter.gif)
-![Watch the full demo][ABBDE423-A566-4E6E-BC53-75C6DB79CED9.mp4]
